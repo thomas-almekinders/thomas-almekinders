@@ -11,7 +11,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 </div>
 
 <br>
+
 ---
+
 <br><br>
 
 ## 🛠️ Skills & Technologies
@@ -43,7 +45,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 </div>
 
 <br>
+
 ---
+
 <br><br>
 
 ## 🚀 Current & Future Projects
@@ -59,7 +63,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 </div>
 
 <br>
+  
 ---
+
 <br><br>
 
 ## 📫 Contact
@@ -74,7 +80,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 </div>
 
 <br>
+
 ---
+
 <br><br>
 
 ## 📊 GitHub Stats
@@ -86,7 +94,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 </div>
 
 <br>
+
 ---
+
 <br><br>
 
 ## ⚡ About Me
@@ -103,7 +113,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 </div>
 
 <br>
+
 ---
+
 <br><br>
 
 ## 🌟 Fun Facts

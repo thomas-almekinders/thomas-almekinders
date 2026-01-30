@@ -10,7 +10,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 
 </div>
 
+<br>
 ---
+<br><br>
 
 ## 🛠️ Skills & Technologies
 
@@ -22,6 +24,7 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
+<br>
 ### 🖥️ Backend
 <div align="center">
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -30,6 +33,7 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
+<br>
 ### 🛠️ Tools & Workflow
 <div align="center">
 <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -38,20 +42,25 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 <img alt="Composer" src="https://img.shields.io/badge/Composer-000000?style=for-the-badge&logo=composer&logoColor=white" />
 </div>
 
+<br>
 ---
+<br><br>
 
 ## 🚀 Current & Future Projects
 
 <div align="left">
 
 - **PennyPilot** – Personal finance tracker *(in development, Laravel & Bootstrap)*  
-- **Future projects** – New personal and school projects will be added here as I continue learning and building.  
+
+- **Future projects** – New personal and school projects will be added here as I continue learning and building.
 
 > Projects listed here are ongoing or planned. This section will evolve as my portfolio grows.
 
 </div>
 
+<br>
 ---
+<br><br>
 
 ## 📫 Contact
 
@@ -64,7 +73,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 
 </div>
 
+<br>
 ---
+<br><br>
 
 ## 📊 GitHub Stats
 
@@ -74,7 +85,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 
 </div>
 
+<br>
 ---
+<br><br>
 
 ## ⚡ About Me
 
@@ -89,7 +102,9 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 
 </div>
 
+<br>
 ---
+<br><br>
 
 ## 🌟 Fun Facts
 
@@ -102,5 +117,3 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 - I like documenting and sharing my progress to improve my workflow and portfolio visibility.
 
 </div>
-
----

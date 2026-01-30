@@ -18,7 +18,7 @@ I love experimenting with modern tools, frameworks, and best practices to build 
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
+<div>
 
 ### 💻 Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
